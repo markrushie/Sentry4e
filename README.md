@@ -28,5 +28,9 @@ The Sentry logic was subjected to a forensic stress test to validate its scoring
 
 ---
 
+### **🚀 Live Application**
+Access the interactive forensic engine here:
+[Sentry 4 e-Mail (Opal)](https://opal.google/app/1plWkJREpCu37-xabIGl6PpEaQ2vZg9-j)
+
 ### **Support & Enterprise Consulting**
 For advanced forensic email audits or enterprise security consulting, contact **service@mrtechnyc.com**.
